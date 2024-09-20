@@ -1,0 +1,27 @@
+<div class="features-desc">
+      <div class="features-icon"></div>
+      <div class="features-text">
+<p>At our barbershop, we take pride in having a team of highly skilled and experienced barbers who are passionate about their craft. Each member of our staff has undergone extensive training and brings years of expertise to deliver precise cuts, tailored grooming, and the latest styles. Whether it's a classic look or a modern trend, our barbers have the skills and knowledge to meet your needs.
+
+  We believe in staying up-to-date with the latest techniques and products, ensuring that you receive not only a great haircut but also personalized advice on hair care and maintenance. Trust our experienced team to provide exceptional service in a friendly and professional environment.</p>
+    </div>
+  </div>
+</div>
+
+
+.features-img img{
+    width: 70%;
+    border-radius:10px ;
+}
+
+.features h1{
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: 100;
+    color: #009688;
+}
+.features-desc{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
